@@ -1,0 +1,2 @@
+# profile
+PowerShell $PROFILE
